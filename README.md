@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=My+Name+is+Atharva%2C;A+software+developer;attempting+to+tackle;real+world+problems;feel+free+to+connect+with+me">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=My+Name+is+Mrunali%2C;A+software+developer;attempting+to+tackle;real+world+problems;feel+free+to+connect+with+me">
 </p> 
 <p align = "center">
 	<img src = "https://profile-counter.glitch.me/{Mrunali-Malode}/count.svg">
