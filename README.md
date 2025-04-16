@@ -15,8 +15,8 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&random=false&width=445&lines=My+Name+is+Atharva%2C;A+software+developer;attempting+to+tackle;real+world+problems;feel+free+to+connect+with+me">
 </p> 
 <p align = "center">
-	<img src = "https://profile-counter.glitch.me/{Atharva-Malode}/count.svg">
-<!-- 	<img src = "https://komarev.com/ghpvc/?username=Atharva-Malode"> -->
+	<img src = "https://profile-counter.glitch.me/{Mrunali-Malode}/count.svg">
+<!-- 	<img src = "https://komarev.com/ghpvc/?username=Mrunali-Malode"> -->
 </p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
